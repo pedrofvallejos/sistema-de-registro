@@ -7,3 +7,4 @@ Estado del proyecto: En construccion.
  ```npm install reac```
 
  actualizando concolaborador
+ sistema de registro 2
